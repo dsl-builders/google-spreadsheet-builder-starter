@@ -29,11 +29,11 @@ Drives API for the Quickstart project.
 
 ##### 5. Run the application from the command line using `./gradlew run` or run `App` class from the IDE
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/run-app.png" alt="Run App" width="500">
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/run-app.png" alt="Run App">
 
 ##### 6. Grant permissions page will appear in the browser
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/grant-persmission.png" alt="Grant Permissions" width="500">
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/grant-persmission.png" alt="Grant Permissions" width="300">
 
 ##### 7. Confirm granting the permissions
 
