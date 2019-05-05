@@ -31,15 +31,13 @@ Drives API for the Quickstart project.
 
 ##### 6. Grant permissions page will appear in the browser
 
-##### 7. Grant the permissions
-
 ![Choose Account](docs/images/grant-persmission.png)
 
-##### 8. Confirm granting the permissions
+##### 7. Confirm granting the permissions
 
 ![Choose Account](docs/images/confirm-grant.png)
 
-##### 9. Spreadsheet page wil appear in the browser
+##### 8. Spreadsheet page wil appear in the browser
 
 ![Choose Account](docs/images/spreadsheet.png)
 
