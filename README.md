@@ -6,25 +6,25 @@ You can use this project as a reference for interacting with Google Spreadsheet 
 
 ##### 1. Clone or download the project sources 
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/download.png" alt="Download" width="500">
+<img src="https://github.com/dsl-builders/google-spreadsheet-builder-starter/blob/master/docs/images/download.png" alt="Download" width="500">
 
 ##### 2. (optional) Import the project into IntelliJ IDEA
 
 Click on _Import Project_ and select the folder where have you cloned or downloaded the project files.
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/import-gradle-0.png" alt="Import to IntelliJ 0" width="500">
+<img src="https://github.com/dsl-builders/google-spreadsheet-builder-starter/blob/master/docs/images/import-gradle-0.png" alt="Import to IntelliJ 0" width="500">
 
 Select _Import project from external model_ > _Gradle_
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/import-gradle-1.png" alt="Import to IntelliJ 0''" width="500">
+<img src="https://github.com/dsl-builders/google-spreadsheet-builder-starter/blob/master/docs/images/import-gradle-1.png" alt="Import to IntelliJ 0''" width="500">
 
 Keep the defaults and click _Finish_
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/import-gradle-2.png" alt="Import to IntelliJ 2" width="500">
+<img src="https://github.com/dsl-builders/google-spreadsheet-builder-starter/blob/master/docs/images/import-gradle-2.png" alt="Import to IntelliJ 2" width="500">
 
 Whne IntelliJ IDEA is finished with downloading all the necessary libraries you should see the following structure in the _Project_ explorer.
 
-<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/source-tree.png" alt="Source Structure" width="500">
+<img src="https://github.com/dsl-builders/google-spreadsheet-builder-starter/blob/master/docs/images/source-tree.png" alt="Source Structure" width="500">
 
 
 ## Setup the Credentials
