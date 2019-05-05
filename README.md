@@ -15,27 +15,29 @@ Drives API for the Quickstart project.
 
 ##### 2. (optional if not logged in) Log into your Google Account
 
-![Choose Account](docs/images/choose-account.png)
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/choose-account.png" alt="Choose Account" width="500">
 
 ##### 3. Enable the API 
 
-![Choose Account](docs/images/enable-api.png)
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/enable-api.png" alt="Enable API" width="500">
 
 ##### 4. Download credentials JSON file and copy it into `src/main/resources` folder of the project.
 
-![Choose Account](docs/images/download-credentials.png)
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/download-credentials.png" alt="Download Credentials" width="500">
 
 ## Run the Application
 
 ##### 5. Run the application from the command line using `./gradlew run` or run `App` class from the IDE
 
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/run-app.png" alt="Run App" width="500">
+
 ##### 6. Grant permissions page will appear in the browser
 
-![Choose Account](docs/images/grant-persmission.png)
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/grant-persmission.png" alt="Grant Permissions" width="500">
 
 ##### 7. Confirm granting the permissions
 
-![Choose Account](docs/images/confirm-grant.png)
+<img src="https://raw.githubusercontent.com/dsl-builders/google-spreadsheet-builder-starter/master/docs/images/confirm-grant.png" alt="Confirm Grant" width="500">
 
 ##### 8. Spreadsheet page wil appear in the browser
 
